@@ -1,5 +1,5 @@
 from timer import Timer
-
+from time import time
 
 class Expedition:
 
